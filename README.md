@@ -94,17 +94,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [OSINT Blogs](#-osint-blogs)
  - [Other Resources](#-other-resources)
 
-## [↑](#-Table-of-Contents) Contributing
-
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources.
-
-## [↑](#-Table-of-Contents) Credits
-
 This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
-
-Thanks to our main contributors
-[jivoi EK_](https://github.com/jivoi)
-[spmedia](https://github.com/spmedia)
 
 ## [↑](#-Table-of-Contents) General Search
 
@@ -2218,8 +2208,3 @@ urls and other data effortlessly
 * [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
 * [Trello](https://www.trello.com) - Free Team Project Board
 
-## License
-
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
